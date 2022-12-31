@@ -15,7 +15,7 @@ Based on 2019 KTU Scheme
 
 ##### 6) [Tokenization](/6.%20Tokenization/Token.java)
 
-##### 7) [Exception Handling](7.%20Exception%20Handling/Exc.java)
+##### 7) [Exception Handling](7.%20Exception%20handling/Exc.java)
 
 ##### 8) [File Operation](8.%20File%20operation/Fileop.java)
 
