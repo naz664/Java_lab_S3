@@ -21,4 +21,4 @@ Based on 2019 KTU Scheme
 
 ##### 9) [Thread Synchronization](9.%20Thread%20synchronization/Threaddemo.java)
 
-##### 10) [Calculator (Swing)](_10.%20Calculator%20swing/Calc.java)
+##### 10) [Calculator (Swing)](_10.%20Calculator/Calc.java)
