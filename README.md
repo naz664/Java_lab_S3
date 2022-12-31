@@ -3,7 +3,7 @@ Based on 2019 KTU Scheme
 
 # Contents
 
-##### 1) [String Palindrome](/1.%20String%20palindrome/Palindrome.java)
+##### 1) [String Palindrome](/1.%20String%20Palindrome/Palindrome.java)
 
 ##### 2) [Frequency of a given character](/2.%20String%20Frequency/Frequency.java)
 
@@ -17,8 +17,8 @@ Based on 2019 KTU Scheme
 
 ##### 7) [Exception Handling](7.%20Exception%20Handling/Exc.java)
 
-##### 8) [File Operation](8.%20File%20Operation/Fileop.java)
+##### 8) [File Operation](8.%20File%20operation/Fileop.java)
 
-##### 9) [Thread Synchronization](9.%20Thread%20Synchronization/Threaddemo.java)
+##### 9) [Thread Synchronization](9.%20Thread%20synchronization/Threaddemo.java)
 
-##### 10) [Calculator (Swing)] (_10.%20Calculator%20swing/Calc.java)
+##### 10) [Calculator (Swing)](_10.%20Calculator%20swing/Calc.java)
